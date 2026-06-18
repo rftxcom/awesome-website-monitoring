@@ -9,6 +9,7 @@ Whether you're a developer, DevOps engineer, or business owner, keeping your web
 ## Contents
 
 - [Uptime Monitoring](#uptime-monitoring)
+- [Change Detection](#change-detection)
 - [Performance Monitoring](#performance-monitoring)
 - [Security Monitoring](#security-monitoring)
 - [SSL Certificate Monitoring](#ssl-certificate-monitoring)
@@ -42,6 +43,20 @@ Whether you're a developer, DevOps engineer, or business owner, keeping your web
 - [Checkly](https://www.checklyhq.com/) - API & browser monitoring for developers.
 - [Hyperping](https://hyperping.io/) - Simple, fast uptime monitoring.
 - [OnlineOrNot](https://onlineornot.com/) - Uptime monitoring for Jamstack sites.
+
+## Change Detection
+
+*Tools that monitor websites for content or visual changes and alert you when something updates.*
+
+### Hosted Services
+
+- [Watched](https://watchedapi.com) - API-first website change detection with CSS selectors, webhooks, and MCP server support. Free tier (50 checks/day).
+- [Visualping](https://visualping.io/) - No-code website change monitoring with alerts.
+- [Distill.io](https://distill.io/) - Browser-based web change detector and watcher.
+
+### Self-Hosted
+
+- [changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Open-source self-hosted change detection with notifications.
 
 ## Performance Monitoring
 
