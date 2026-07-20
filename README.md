@@ -53,6 +53,7 @@ Whether you're a developer, DevOps engineer, or business owner, keeping your web
 - [GTmetrix](https://gtmetrix.com/) - Detailed performance reports with waterfalls.
 - [WebPageTest](https://www.webpagetest.org/) - Advanced testing from multiple locations.
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/) - Google's auditing tool for performance, SEO, accessibility.
+- [Screpy](https://screpy.com/) - Tracks Core Web Vitals and page-speed changes across monitored pages.
 - [RFT Website Grader](https://tools.rftmedia.com/grader) - Free instant website score with recommendations. ⭐
 
 ### Real User Monitoring (RUM)
