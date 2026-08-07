@@ -43,6 +43,8 @@ Whether you're a developer, DevOps engineer, or business owner, keeping your web
 - [Hyperping](https://hyperping.io/) - Simple, fast uptime monitoring.
 - [OnlineOrNot](https://onlineornot.com/) - Uptime monitoring for Jamstack sites.
 
+- [Vaytric Link Health](https://vaytric.com/link-health/) - Free multi-URL broken link checker; optional one-time $5 full-site crawl CSV for 404s, 5xx, redirects, and missing titles.
+
 ## Performance Monitoring
 
 *Tools that measure website speed and identify bottlenecks.*
