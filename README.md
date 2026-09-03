@@ -40,6 +40,7 @@ Whether you're a developer, DevOps engineer, or business owner, keeping your web
 
 - [RFT Site Monitor](https://tools.rftmedia.com/monitor) - Free website health checker with security audit. ⭐
 - [Checkly](https://www.checklyhq.com/) - API & browser monitoring for developers.
+- [HyperMonitors](https://www.hypermonitors.com/) - Uptime, heartbeat and SSL monitoring with status pages, escalations and an MCP server.
 - [Hyperping](https://hyperping.io/) - Simple, fast uptime monitoring.
 - [OnlineOrNot](https://onlineornot.com/) - Uptime monitoring for Jamstack sites.
 
