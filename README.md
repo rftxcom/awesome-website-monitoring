@@ -136,6 +136,7 @@ jobs:
 ### Open Source
 
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - Self-hosted monitoring with beautiful UI. ⭐ Popular
+- [SiteWatcher](https://github.com/NikKurkov/sitewatcher) - Self-hosted uptime checks, TLS and domain expiry alerts, and public status pages.
 - [Statping](https://github.com/statping/statping) - Status page and monitoring.
 - [Gatus](https://github.com/TwiN/gatus) - Developer-oriented health dashboard.
 - [Vigil](https://github.com/valeriansaliou/vigil) - Microservices status page.
